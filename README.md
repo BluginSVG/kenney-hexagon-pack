@@ -1,6 +1,6 @@
 # Hexagon pack `by Kenney Vleugels`
-![Preview.png](./Preview.png)  
-![Sample.png](./Sample.png)  
+![Preview.png](./preview/Preview.png)  
+![Sample.png](./preview/Sample.png)  
 [Go to source site](https://kenney.nl/assets/hexagon-pack)  
   
 # License (Creative Commons Zero, CC0)  

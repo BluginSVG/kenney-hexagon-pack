@@ -13,4 +13,4 @@ Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
 Donate:   http://support.kenney.nl  
 Request:  http://request.kenney.nl  
   
-Follow on Twitter for updates: [@KenneyWings](https://twitter.com/KenneyWings)  
+Follow on Facebook for updates: [@KenneyNL](https://www.facebook.com/KenneyNL)  
